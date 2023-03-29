@@ -1,0 +1,29 @@
+body {
+   background-color: #E5D9B6;
+    }
+ hr {
+   background-color: #E5D9B6;
+     border-style: none;
+     border-top-style: dotted;
+     border-color: rgb(122, 120, 116);
+     border-width: 5px;
+     width: 5%;
+    }
+ h2 {
+      font-family: sans-serif;
+      color:rgb(22, 22, 94);
+    }
+ h3 {
+  color:rgb(22, 22, 94);
+    }
+ h4 {
+  color:rgb(22, 22, 94);
+    }
+ img:hover {
+      background-color: rgb(145, 118, 118)
+        }
+ input[type=submit]:hover {
+          background-color: red
+        }
+
+
